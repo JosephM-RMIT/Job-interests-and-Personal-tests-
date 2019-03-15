@@ -19,3 +19,10 @@ The technical skills I currently possess are not adequate for this job as they a
 
 ## Myers-Briggs test
 ![myersbriggs](/screencapture-16personalities-members-area-overview-2019-03-16-02_02_22.png)
+
+
+## Situational Apptitude test
+![sitapp](/Situationalapptitudetest.png)
+
+## Learning Style test
+![Lstyle](/learningstyle1.PNG)
