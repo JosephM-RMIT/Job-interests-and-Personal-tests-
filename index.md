@@ -25,4 +25,4 @@ The technical skills I currently possess are not adequate for this job as they a
 ![sitapp](/Situationalapptitudetest.png)
 
 ## Learning Style test
-![Lstyle](/learningstyle1.PNG)
+![Lstyle](/learningstyle1.JPG)
