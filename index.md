@@ -18,4 +18,4 @@ The technical skills I currently possess are not adequate for this job as they a
 # Personality test results:
 
 ## Myers-Briggs test
-
+![myersbriggs](https://github.com/JosephM-RMIT/Job-interests-and-Personal-tests-/blob/master/screencapture-16personalities-members-area-overview-2019-03-16-02_02_22.png)
