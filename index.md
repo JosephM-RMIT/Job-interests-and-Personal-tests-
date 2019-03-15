@@ -26,3 +26,5 @@ The technical skills I currently possess are not adequate for this job as they a
 
 ## Learning Style test
 ![Lstyle](/learningstyle1.JPG)
+
+## Discussion of Results:
