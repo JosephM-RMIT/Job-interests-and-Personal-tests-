@@ -4,7 +4,7 @@ The job that I have selected as my ideal job is one within the field of Artifici
 
 The technical skills I currently possess are not adequate for this job as they are in the field of Client Support and Managed Operating Environment Administration. The listing does, however, mention “Experience working with technical customers and senior management” as well as “Experience working across organisational boundaries”; both of which were part of my previous roles in other companies. I hope to obtain the qualifications for this position through some of my studies at university as well as undertaking post-graduate positions in similar companies dealing with machine learning or deep learning algorithms where the experience will carry over. I plan to slowly build my technical knowledge and industry experience until I am able to obtain my career goals.
 
-![ideal_job](https://github.com/josephm-rmit/job-interests-and-personal-tests-/blob/master/idealjob2.JPG)
+![ideal_job](https://github.com/josephm-rmit/job-interests-and-personal-tests-/blob/master/idealjob2.jpg)
 
  
  
