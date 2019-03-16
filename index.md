@@ -47,11 +47,13 @@ These three learning types are: Auditory, Visual and Tactile.
 
 ### What do these results mean to me?
 
-The results of some of these tests are quite surprising to me as both the Myers-Briggs and Learning style tests proved to be decently accurate. Furthermore, the results of the Situational apptitude test have boosted my confidence level in regard to making an appropriate choice in a difficult situation - seeing that I scored quite a bit above the average. The usefulness of knowing my learning style can also help in the future, whether it be within my studies or in other areas of life, as I will opt for visual/tactile approach when attempting to secure knowledge in the future.
+The results of some of these tests are quite surprising to me as both the Myers-Briggs and Learning style tests proved to be decently accurate. Furthermore, the results of the Situational aptitude test have boosted my confidence level in regard to making an appropriate choice in a difficult situation – seeing that I scored quite a bit above the average. The usefulness of knowing my learning style can also help in the future, whether it be within my studies or in other areas of life, as I will opt for visual/tactile approach when attempting to secure knowledge in the future.
 
-### How do I think these results will influcence my behaviour in a team or how I form a team?
+### How do I think these results will influence my behaviour in a team or how I form a team?
 
-I believe that the results of the tests can be useful when operating in a team environment as it is extremely useful to know your member's strengths and weaknesses. This way, a team can distribute tasks appropriately and can communicate effectively with each other. For example; a member who is more effective at learning using auditory stimuli may be better off with concepts explained to them via conversation or discussion etc. When it comes to using this data to form teams, I do not think that excluding OR including people based on psychometric test results would be an appropriate conclusion. This is because there is more to the structure of an effective team than the personality types of it's members. I would instead say that the results are better used to compliment/aid the way you work with the people within your team.
+I believe that the results of the tests can be useful when operating in a team environment as it is extremely useful to know your member’s strengths and weaknesses. This way, a team can distribute tasks appropriately and can communicate effectively with each other. For example; a member who is more effective at learning using auditory stimuli may be better off with concepts explained to them via conversation or discussion etc. When it comes to using this data to form teams, I do not think that excluding OR including people based on psychometric test results would be an appropriate conclusion. This is because there is more to the structure of an effective team than the personality types of it’s members. I would instead say that the results are better used to compliment/aid the way you work with the people within your team.
 
 
-[Personal Information](https://josephm-rmit.github.io/Page1/)                                [Project Idea]
+[Personal Information](https://josephm-rmit.github.io/Page1/)                               
+
+[Project Idea](https://josephm-rmit.github.io/Project-Idea/)
