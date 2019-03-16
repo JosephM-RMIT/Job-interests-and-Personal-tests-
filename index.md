@@ -7,24 +7,40 @@ The technical skills I currently possess are not adequate for this job as they a
 ![ideal_job](/idealjob2.JPG)
 
  
- 
-  
-  
-   
-   
-    
     
     
 # Personality test results:
 
 ## Myers-Briggs test
+The Myers-Briggs test is designed to categorise people into appropriate groups based on their psychological preferences when perceiving the world around them. It centres around four main questions:
+
+1. **Are you inwardly or outwardly focused?**
+
+2. **How do you prefer to take in information?**
+
+3. **How do you prefer to make decisions?**
+
+4. **How do you prefer to live your outer life?**
+
+Using these four main questions as the keystone, the Myers-Briggs test infers 16 possible personalities.
+
 ![myersbriggs](/screencapture-16personalities-members-area-overview-2019-03-16-02_02_22.png)
 
 
 ## Situational Apptitude test
+
+
+Situtational Apptitude tests focus on evaluating a person based on their ability to make 'correct' desicions based on hypothetical scenarios given to them. They are often used by large organisations to predict behavioural tendencies and knowledge instruction of applicants. This particular test presented hypothetical scenarios within the work place where a tough desicion was to be made. The test-taker is then presented with a variety of possible actions and must rank them from most-likely response to least-likely response. 
+
+
 ![sitapp](/Situationalapptitudetest.png)
 
 ## Learning Style test
+
+The Learning Style test involves a series of questions regarding preferences when doing daily activities e.g. Would you rather have a read a passage yourself or have it narrated to you? From these questions, it attempts to conclude whether you focus on one of the three learning types more than the others.
+
+These three learning types are: Auditory, Visual and Tactile. 
+
 ![Lstyle](/learningstyle1.JPG)
 
 ## Discussion of Results:
