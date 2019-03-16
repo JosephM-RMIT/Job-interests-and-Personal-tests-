@@ -54,6 +54,6 @@ The results of some of these tests are quite surprising to me as both the Myers-
 I believe that the results of the tests can be useful when operating in a team environment as it is extremely useful to know your member’s strengths and weaknesses. This way, a team can distribute tasks appropriately and can communicate effectively with each other. For example; a member who is more effective at learning using auditory stimuli may be better off with concepts explained to them via conversation or discussion etc. When it comes to using this data to form teams, I do not think that excluding OR including people based on psychometric test results would be an appropriate conclusion. This is because there is more to the structure of an effective team than the personality types of it’s members. I would instead say that the results are better used to compliment/aid the way you work with the people within your team.
 
 
-[Personal Information](https://josephm-rmit.github.io/Page1/)                               
+[***Personal Information***](https://josephm-rmit.github.io/Page1/)                               
 
-[Project Idea](https://josephm-rmit.github.io/Project-Idea/)
+[***Project Idea***](https://josephm-rmit.github.io/Project-Idea/)
